@@ -17,6 +17,16 @@ Determinar si la versión B mejora una métrica clave frente a la versión A (CT
 - Conversion rate
 - Comparación entre grupos A y B
 
+## Resultados clave
+
+- Se compararon las tasas de conversión entre la variante A y B
+- Se aplicó una prueba estadística para validar la diferencia
+- Se obtuvo una recomendación basada en datos
+
+## Conclusión
+
+El análisis permite tomar una decisión informada sobre qué variante implementar, basándose en evidencia estadística.
+
 ## 🛠️ Herramientas
 - Python
 - Pandas
