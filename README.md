@@ -35,4 +35,4 @@ El análisis permite tomar una decisión informada sobre qué variante implement
 - Matplotlib / Seaborn
 
 ## 👨‍💻 Autor
-Joel Orma
+Joel Ortega Maldonado
